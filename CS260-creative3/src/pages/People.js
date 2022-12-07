@@ -69,7 +69,7 @@ class People extends React.Component {
       </div>
       <footer class="footer">
       <p class='data'>Francis Habash</p>
-      <p class='data'><a href="https://github.com/francishabash/CS260-creative3">Github</a></p>
+      <p class='data'><a href="https://github.com/francishabash/Creative4">Github</a></p>
     </footer>
         </div>
       );
