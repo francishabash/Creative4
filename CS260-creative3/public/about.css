@@ -1,0 +1,63 @@
+.header{
+    display:flex;
+    height:100px;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+
+.photo{
+    display: grid;
+    height: 100%;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.my-image{
+    max-width: 100%;
+    max-height: 100vh;
+    margin: auto;
+}
+.para, .container {
+    color: #fff;
+    padding: 5px;
+    border: 3px solid #3E0909;
+    border-radius: 10px;
+    background-color: #3E0909;
+}
+
+.container{
+    margin-bottom: 20px;
+}
+
+.name{
+    font-weight: bold;
+}
+
+.mine {
+    color: #FFFFFF
+}
+
+.names {
+    color: #FFFFFF
+    
+}
+
+.body_div{
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer{
+    color: #FFFFFF;
+    margin-top: auto;
+    padding: 3px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+ul {
+  list-style-type: circle;
+}
